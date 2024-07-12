@@ -1,0 +1,19 @@
+h1{
+  font-weight: 700;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input{
+ width:100%; 
+}
+.item-cont{
+  text-align: left;
+}
+.tl-row{
+  margin: 10px 5px;
+}
+.tl-btn{
+  min-width: 80px;
+}
